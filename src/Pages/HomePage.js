@@ -15,13 +15,13 @@ function HomePage() {
                 Front-end Web Developer. I am a highly motivated and progress-focused Web Developer with a long-standing background in this industry. I can provide clean code and pixel perfect design. I also make website more & more interactive with web animations.
                 </p>
                 <div className="icons">
-                    <a href="https://www.facebook.com/live.shafiul" target="_blank" className="icon-holder">
+                    <a href="https://www.facebook.com/live.shafiul" target="_blank" rel="noreferrer" className="icon-holder">
                         <FontAwesomeIcon icon={faFacebook} className="icon" />
                     </a>
-                    <a href="https://github.com/shafiulmmc" target="_blank" className="icon-holder">
+                    <a href="https://github.com/shafiulmmc" target="_blank" rel="noreferrer" className="icon-holder">
                         <FontAwesomeIcon icon={faGithub} className="icon" />
                     </a>
-                    <a to="https://www.linkedin.com/in/shafiul-alam-162ab2167/" target="_blank" className="icon-holder">
+                    <a to="https://www.linkedin.com/in/shafiul-alam-162ab2167/" target="_blank" rel="noreferrer" className="icon-holder">
                         <FontAwesomeIcon icon={faLinkedin} className="icon"/>
                     </a>
                 </div>

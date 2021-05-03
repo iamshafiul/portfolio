@@ -28,7 +28,7 @@ function ImageSection() {
                         <p>: Bangladesh</p>
                     </div>
                 </div>
-                <a href="https://drive.google.com/file/d/1_90Y4r5ZqQ0VHLtpa9ijRVoShhczGtm6/view" target="_blank" className="cv">Download Cv</a>
+                <a href="https://drive.google.com/file/d/1_90Y4r5ZqQ0VHLtpa9ijRVoShhczGtm6/view" target="_blank" rel="noreferrer" className="cv">Download Cv</a>
             </div>
         </div>
     )
