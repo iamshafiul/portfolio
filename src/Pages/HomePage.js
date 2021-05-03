@@ -20,7 +20,7 @@ function HomePage() {
                     <a href="https://github.com/shafiulmmc" target="_blank" rel="noreferrer" className="icon-holder">
                         <FontAwesomeIcon icon={faGithub} className="icon" />
                     </a>
-                    <a to="https://www.linkedin.com/in/shafiul-alam-162ab2167/" target="_blank" rel="noreferrer" className="icon-holder">
+                    <a href="https://www.linkedin.com/in/shafiul-alam-162ab2167/" target="_blank" rel="noreferrer" className="icon-holder">
                         <FontAwesomeIcon icon={faLinkedin} className="icon"/>
                     </a>
                 </div>
