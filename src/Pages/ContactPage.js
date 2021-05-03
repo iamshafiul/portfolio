@@ -1,8 +1,5 @@
 import React from 'react'
-import location from '../img/location.svg';
 import Tittle from '../Components/Tittle';
-
-
 
 function ContactPage() {
     return (
