@@ -18,7 +18,6 @@ function AboutPage() {
                 <SkillsSection skill={'CSS3'} progress={'80%'} width={'80%'} />
                 <SkillsSection skill={'SASS'} progress={'80%'} width={'70%'} />
                 <SkillsSection skill={'BOOTSTRAP'} progress={'80%'} width={'80%'} />
-                <SkillsSection skill={'SASS'} progress={'70%'} width={'70%'} />
                 <SkillsSection skill={'Javascript'} progress={'70%'} width={'70%'} />
                 <SkillsSection skill={'React Js'} progress={'70%'} width={'70%'} />
                 <SkillsSection skill={'Material UI'} progress={'70%'} width={'70%'} />
@@ -29,7 +28,6 @@ function AboutPage() {
                 <SkillsSection skill={'Heroku'} progress={'50%'} width={'60%'} />
                 <SkillsSection skill={'Netlify'} progress={'50%'} width={'60%'} />
                 <SkillsSection skill={'Web Design'} progress={'90%'} width={'90%'} />
-                <SkillsSection skill={'UI/Ux Design'} progress={'76%'} width={'76%'} />
             </div>
 
             <Tittle title={'Services'} span={'Services'} />
